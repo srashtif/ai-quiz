@@ -4,12 +4,7 @@ Uses OpenAI's ChatGPT API to generate multiple choice quiz with user defined lan
 
 Features a loading screen with random facts to give the user something to do while the data is retrieved from the API and an ending screen with score-determined gifs and sarcastic messages.
 
-## Features
-- Customisable language, topic, difficulty, and number of questions
-- Loading screen that displays the live response stream and random webdev/programming facts (gives you something to do as it can take around 20-30 seconds for the quiz to generate)
-- Multiple choice Ed-style quiz with explanations and a progress bar
-- End screen with gifs, sarcastic messages, and confetti (>= 80%) that adapt to your quiz score
-- 14 track kahoot-flavored audio player (this is the real highlight, the quiz is just something to do while you're groovin :grin:)
+
 
 ## Tech Used
 
